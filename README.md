@@ -12,6 +12,8 @@ Also, you can check Warren Marshall's video tips about Modo config (https://www.
 Some customizations requires Etereae's kits and Seneca's scripts, you can get them from links below
 http://www.etereaestudios.com/docs_html/general_index_htm/resources.htm
 http://dl.dropbox.com/u/1615250/senemodo.zip
+
+
 some information about Seneca's scripts: http://www.indigosm.com/modoscripts.htm
 
 ### **About these config files:**
