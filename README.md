@@ -42,4 +42,4 @@ some information about Seneca's scripts: http://www.indigosm.com/modoscripts.htm
 **_Sen's Script and GUI toolbar icon.CFG_**, simply added a button on the 'modo modes toolbar' for 'Sen_Scripts and Guis' palette.
 
 ### **How to install**:
-Modo menu bar "System/Open User Configs Folder" open the folder "C:\Users\USERNAME\AppData\Roaming\Luxology\Configs", and just put these files in.
+Modo menu bar "System/Open User Configs Folder" open the folder "C:\Users\USERNAME\AppData\Roaming\Luxology\Configs", and just put these files in(except 'ETEREA Primitives Enhanced.CFG').
