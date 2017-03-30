@@ -35,8 +35,7 @@ some information about Seneca's scripts: http://www.indigosm.com/modoscripts.htm
 
 **_GooseBig's Macros.CFG_**, macros I made for these pie menus.
 
-**_GooseBig's Modeling Operation Pie.CFG_**, the most important pie menu for myself, helps me do thing quickly. eg. merge vertices without popping up dialog window need you to confirm. Options pretty self-explained, w/o means "without popups". Options with '...' means it opens a sub pie menu. Bind to 'Shift + Space'.
-
+**_GooseBig's Modeling Operation Pie.CFG_**, the most important pie menu for myself, helps me do thing quickly. eg. merge vertices without popping up dialog window need you to confirm. Options pretty self-explained, w/o means "without popups". Options with '...' means it opens a sub pie menu. Bind to 'Shift + Space'. Funk's @funk_join.py required, you can get it here https://community.foundry.com/discuss/topic/87130 put the script in the "..\AppData\Roaming\Luxology\Script" folder.
 **_GooseBig's Selection Set Pies.CFG_**, quick create and edit a selection set and a sub pie menu for creating and editing a selection set called 'UV seam'. Bind to 'Alt + W'.
 
 **_Sen's Random Selector.CFG_**, quick access Seneca's random selection scripts. 'Alt + S'.
