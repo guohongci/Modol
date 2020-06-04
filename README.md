@@ -5,7 +5,7 @@ This is about how to make Modo modeling experience smoother.
 
 These are my Modo config that helps me speed up my modeling process.
 
-If you would like to know more about how to customize you Modo, my config set is a good point to start, in stead of head first to Modo's official documents. You can apply these files, guess how they work, then read some documents with your questions. It may be more efficient this way.
+If you would like to know more about how to customize you Modo, this config set could be point to start, in stead of head first to Modo's official documents. You can apply these files, guess how they work, then read some documents with your questions. It may be more efficient this way.
 
 Also, you can check Warren Marshall's video tips about Modo config (https://www.youtube.com/watch?v=wv3DC_GggFw).
 
